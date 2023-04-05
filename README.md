@@ -1,0 +1,1 @@
+http://image-filter-starter-code-dev2222222.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://assets.nst.com.my/images/articles/03xxworld_1596384698.jpg
